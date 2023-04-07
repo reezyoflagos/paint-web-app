@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "paint web app",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503,
+		"liveServer.settings.multiRootWorkspaceName": "paint web app"
+	}
+}
